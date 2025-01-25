@@ -5,5 +5,5 @@
 * Also Computed several measures such as ADR(Average Daily Rate), RevPAR(Revenue per Available Room), Cancellation% that helped in understanding the data better.
 * Thus being able to analyse which city or which property rooms are being booked & utilised by the customers after booking the room.
   
+![image](https://github.com/user-attachments/assets/9f4918be-7858-44ee-bc22-359e8ab037e5)
 
-![image](https://github.com/user-attachments/assets/863df745-7ad3-45f1-851e-fca8649dccbe)
